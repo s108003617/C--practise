@@ -1,0 +1,14 @@
+E:\c#\for迴圈\for迴圈\bin\Debug\net6.0\for迴圈.exe
+E:\c#\for迴圈\for迴圈\bin\Debug\net6.0\for迴圈.deps.json
+E:\c#\for迴圈\for迴圈\bin\Debug\net6.0\for迴圈.runtimeconfig.json
+E:\c#\for迴圈\for迴圈\bin\Debug\net6.0\for迴圈.dll
+E:\c#\for迴圈\for迴圈\bin\Debug\net6.0\for迴圈.pdb
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.AssemblyInfoInputs.cache
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.AssemblyInfo.cs
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.csproj.CoreCompileInputs.cache
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.dll
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\refint\for迴圈.dll
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.pdb
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\for迴圈.genruntimeconfig.cache
+E:\c#\for迴圈\for迴圈\obj\Debug\net6.0\ref\for迴圈.dll

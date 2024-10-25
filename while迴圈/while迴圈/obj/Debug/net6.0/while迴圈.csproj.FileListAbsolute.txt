@@ -1,0 +1,14 @@
+E:\c#\while迴圈\while迴圈\bin\Debug\net6.0\while迴圈.exe
+E:\c#\while迴圈\while迴圈\bin\Debug\net6.0\while迴圈.deps.json
+E:\c#\while迴圈\while迴圈\bin\Debug\net6.0\while迴圈.runtimeconfig.json
+E:\c#\while迴圈\while迴圈\bin\Debug\net6.0\while迴圈.dll
+E:\c#\while迴圈\while迴圈\bin\Debug\net6.0\while迴圈.pdb
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.AssemblyInfoInputs.cache
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.AssemblyInfo.cs
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.csproj.CoreCompileInputs.cache
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.dll
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\refint\while迴圈.dll
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.pdb
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\while迴圈.genruntimeconfig.cache
+E:\c#\while迴圈\while迴圈\obj\Debug\net6.0\ref\while迴圈.dll

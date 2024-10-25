@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "static method  static class", "static method  static class\static method  static class.csproj", "{DFE028DF-1ABC-4F66-B34E-05EE3EF830E9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DFE028DF-1ABC-4F66-B34E-05EE3EF830E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DFE028DF-1ABC-4F66-B34E-05EE3EF830E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DFE028DF-1ABC-4F66-B34E-05EE3EF830E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DFE028DF-1ABC-4F66-B34E-05EE3EF830E9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {77CA40E3-A534-40DC-A74B-F5A505E8CD03}
+	EndGlobalSection
+EndGlobal

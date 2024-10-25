@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "取得用戶輸入", "取得用戶輸入\取得用戶輸入.csproj", "{4FBBBFC7-55A2-4F64-92A6-C98B94DF8E78}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FBBBFC7-55A2-4F64-92A6-C98B94DF8E78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FBBBFC7-55A2-4F64-92A6-C98B94DF8E78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FBBBFC7-55A2-4F64-92A6-C98B94DF8E78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FBBBFC7-55A2-4F64-92A6-C98B94DF8E78}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50BC72B2-47D1-4274-9E09-357AB84F8BCB}
+	EndGlobalSection
+EndGlobal

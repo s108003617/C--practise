@@ -1,0 +1,12 @@
+number = 40 + 8;
+number = 40 - 8;
+number = 40 * 8; 算乘完的整數
+number = 40 / 8; 算除完的整數
+number = 40 % 8; 算商
+-------------------------------------------------
+int number = 0;
+
+number = number +1;
+number += 1;
+number++;
+以上3種寫法一樣 都是number+1

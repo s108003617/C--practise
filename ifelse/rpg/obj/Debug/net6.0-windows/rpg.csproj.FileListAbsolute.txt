@@ -1,0 +1,16 @@
+E:\c#\rpg\rpg\bin\Debug\net6.0-windows\rpg.exe
+E:\c#\rpg\rpg\bin\Debug\net6.0-windows\rpg.deps.json
+E:\c#\rpg\rpg\bin\Debug\net6.0-windows\rpg.runtimeconfig.json
+E:\c#\rpg\rpg\bin\Debug\net6.0-windows\rpg.dll
+E:\c#\rpg\rpg\bin\Debug\net6.0-windows\rpg.pdb
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.Form1.resources
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.csproj.GenerateResource.cache
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.AssemblyInfoInputs.cache
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.AssemblyInfo.cs
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.csproj.CoreCompileInputs.cache
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.dll
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\refint\rpg.dll
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.pdb
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\rpg.genruntimeconfig.cache
+E:\c#\rpg\rpg\obj\Debug\net6.0-windows\ref\rpg.dll

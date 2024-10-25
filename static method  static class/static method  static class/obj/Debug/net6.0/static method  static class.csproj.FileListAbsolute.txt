@@ -1,0 +1,14 @@
+E:\c#\static method  static class\static method  static class\bin\Debug\net6.0\static method  static class.exe
+E:\c#\static method  static class\static method  static class\bin\Debug\net6.0\static method  static class.deps.json
+E:\c#\static method  static class\static method  static class\bin\Debug\net6.0\static method  static class.runtimeconfig.json
+E:\c#\static method  static class\static method  static class\bin\Debug\net6.0\static method  static class.dll
+E:\c#\static method  static class\static method  static class\bin\Debug\net6.0\static method  static class.pdb
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.AssemblyInfoInputs.cache
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.AssemblyInfo.cs
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.csproj.CoreCompileInputs.cache
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.dll
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\refint\static method  static class.dll
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.pdb
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\static method  static class.genruntimeconfig.cache
+E:\c#\static method  static class\static method  static class\obj\Debug\net6.0\ref\static method  static class.dll

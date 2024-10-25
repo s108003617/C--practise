@@ -1,0 +1,14 @@
+E:\c#\猜數字\猜數字\bin\Debug\net6.0\猜數字.exe
+E:\c#\猜數字\猜數字\bin\Debug\net6.0\猜數字.deps.json
+E:\c#\猜數字\猜數字\bin\Debug\net6.0\猜數字.runtimeconfig.json
+E:\c#\猜數字\猜數字\bin\Debug\net6.0\猜數字.dll
+E:\c#\猜數字\猜數字\bin\Debug\net6.0\猜數字.pdb
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.AssemblyInfoInputs.cache
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.AssemblyInfo.cs
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.csproj.CoreCompileInputs.cache
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.dll
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\refint\猜數字.dll
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.pdb
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\猜數字.genruntimeconfig.cache
+E:\c#\猜數字\猜數字\obj\Debug\net6.0\ref\猜數字.dll

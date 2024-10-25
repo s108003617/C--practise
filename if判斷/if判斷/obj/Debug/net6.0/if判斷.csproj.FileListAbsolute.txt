@@ -1,0 +1,14 @@
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.AssemblyInfoInputs.cache
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.AssemblyInfo.cs
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.csproj.CoreCompileInputs.cache
+E:\c#\if判斷\if判斷\bin\Debug\net6.0\if判斷.exe
+E:\c#\if判斷\if判斷\bin\Debug\net6.0\if判斷.deps.json
+E:\c#\if判斷\if判斷\bin\Debug\net6.0\if判斷.runtimeconfig.json
+E:\c#\if判斷\if判斷\bin\Debug\net6.0\if判斷.dll
+E:\c#\if判斷\if判斷\bin\Debug\net6.0\if判斷.pdb
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.dll
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\refint\if判斷.dll
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.pdb
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\if判斷.genruntimeconfig.cache
+E:\c#\if判斷\if判斷\obj\Debug\net6.0\ref\if判斷.dll

@@ -1,0 +1,14 @@
+E:\c#\取得用戶輸入\取得用戶輸入\bin\Debug\net6.0\取得用戶輸入.exe
+E:\c#\取得用戶輸入\取得用戶輸入\bin\Debug\net6.0\取得用戶輸入.deps.json
+E:\c#\取得用戶輸入\取得用戶輸入\bin\Debug\net6.0\取得用戶輸入.runtimeconfig.json
+E:\c#\取得用戶輸入\取得用戶輸入\bin\Debug\net6.0\取得用戶輸入.dll
+E:\c#\取得用戶輸入\取得用戶輸入\bin\Debug\net6.0\取得用戶輸入.pdb
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.AssemblyInfoInputs.cache
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.AssemblyInfo.cs
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.csproj.CoreCompileInputs.cache
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.dll
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\refint\取得用戶輸入.dll
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.pdb
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\取得用戶輸入.genruntimeconfig.cache
+E:\c#\取得用戶輸入\取得用戶輸入\obj\Debug\net6.0\ref\取得用戶輸入.dll

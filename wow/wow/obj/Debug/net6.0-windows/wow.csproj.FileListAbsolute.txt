@@ -1,0 +1,16 @@
+E:\c#\wow\wow\bin\Debug\net6.0-windows\wow.exe
+E:\c#\wow\wow\bin\Debug\net6.0-windows\wow.deps.json
+E:\c#\wow\wow\bin\Debug\net6.0-windows\wow.runtimeconfig.json
+E:\c#\wow\wow\bin\Debug\net6.0-windows\wow.dll
+E:\c#\wow\wow\bin\Debug\net6.0-windows\wow.pdb
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.Form1.resources
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.csproj.GenerateResource.cache
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.AssemblyInfoInputs.cache
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.AssemblyInfo.cs
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.csproj.CoreCompileInputs.cache
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.dll
+E:\c#\wow\wow\obj\Debug\net6.0-windows\refint\wow.dll
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.pdb
+E:\c#\wow\wow\obj\Debug\net6.0-windows\wow.genruntimeconfig.cache
+E:\c#\wow\wow\obj\Debug\net6.0-windows\ref\wow.dll

@@ -1,0 +1,14 @@
+E:\c#\method\method\bin\Debug\net6.0\method.exe
+E:\c#\method\method\bin\Debug\net6.0\method.deps.json
+E:\c#\method\method\bin\Debug\net6.0\method.runtimeconfig.json
+E:\c#\method\method\bin\Debug\net6.0\method.dll
+E:\c#\method\method\bin\Debug\net6.0\method.pdb
+E:\c#\method\method\obj\Debug\net6.0\method.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\method\method\obj\Debug\net6.0\method.AssemblyInfoInputs.cache
+E:\c#\method\method\obj\Debug\net6.0\method.AssemblyInfo.cs
+E:\c#\method\method\obj\Debug\net6.0\method.csproj.CoreCompileInputs.cache
+E:\c#\method\method\obj\Debug\net6.0\method.dll
+E:\c#\method\method\obj\Debug\net6.0\refint\method.dll
+E:\c#\method\method\obj\Debug\net6.0\method.pdb
+E:\c#\method\method\obj\Debug\net6.0\method.genruntimeconfig.cache
+E:\c#\method\method\obj\Debug\net6.0\ref\method.dll

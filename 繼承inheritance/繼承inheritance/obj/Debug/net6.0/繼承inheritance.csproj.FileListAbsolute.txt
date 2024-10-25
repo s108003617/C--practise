@@ -1,0 +1,14 @@
+E:\c#\繼承inheritance\繼承inheritance\bin\Debug\net6.0\繼承inheritance.exe
+E:\c#\繼承inheritance\繼承inheritance\bin\Debug\net6.0\繼承inheritance.deps.json
+E:\c#\繼承inheritance\繼承inheritance\bin\Debug\net6.0\繼承inheritance.runtimeconfig.json
+E:\c#\繼承inheritance\繼承inheritance\bin\Debug\net6.0\繼承inheritance.dll
+E:\c#\繼承inheritance\繼承inheritance\bin\Debug\net6.0\繼承inheritance.pdb
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.AssemblyInfoInputs.cache
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.AssemblyInfo.cs
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.csproj.CoreCompileInputs.cache
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.dll
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\refint\繼承inheritance.dll
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.pdb
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\繼承inheritance.genruntimeconfig.cache
+E:\c#\繼承inheritance\繼承inheritance\obj\Debug\net6.0\ref\繼承inheritance.dll

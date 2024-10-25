@@ -1,0 +1,14 @@
+E:\c#\範例2\範例2\bin\Debug\net6.0\範例2.exe
+E:\c#\範例2\範例2\bin\Debug\net6.0\範例2.deps.json
+E:\c#\範例2\範例2\bin\Debug\net6.0\範例2.runtimeconfig.json
+E:\c#\範例2\範例2\bin\Debug\net6.0\範例2.dll
+E:\c#\範例2\範例2\bin\Debug\net6.0\範例2.pdb
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.AssemblyInfoInputs.cache
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.AssemblyInfo.cs
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.csproj.CoreCompileInputs.cache
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.dll
+E:\c#\範例2\範例2\obj\Debug\net6.0\refint\範例2.dll
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.pdb
+E:\c#\範例2\範例2\obj\Debug\net6.0\範例2.genruntimeconfig.cache
+E:\c#\範例2\範例2\obj\Debug\net6.0\ref\範例2.dll

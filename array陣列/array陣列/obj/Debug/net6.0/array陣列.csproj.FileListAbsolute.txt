@@ -1,0 +1,14 @@
+E:\c#\array陣列\array陣列\bin\Debug\net6.0\array陣列.exe
+E:\c#\array陣列\array陣列\bin\Debug\net6.0\array陣列.deps.json
+E:\c#\array陣列\array陣列\bin\Debug\net6.0\array陣列.runtimeconfig.json
+E:\c#\array陣列\array陣列\bin\Debug\net6.0\array陣列.dll
+E:\c#\array陣列\array陣列\bin\Debug\net6.0\array陣列.pdb
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.AssemblyInfoInputs.cache
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.AssemblyInfo.cs
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.csproj.CoreCompileInputs.cache
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.dll
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\refint\array陣列.dll
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.pdb
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\array陣列.genruntimeconfig.cache
+E:\c#\array陣列\array陣列\obj\Debug\net6.0\ref\array陣列.dll

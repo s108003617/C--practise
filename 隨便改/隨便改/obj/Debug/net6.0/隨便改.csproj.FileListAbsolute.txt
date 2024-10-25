@@ -1,0 +1,14 @@
+E:\c#\隨便改\隨便改\bin\Debug\net6.0\隨便改.exe
+E:\c#\隨便改\隨便改\bin\Debug\net6.0\隨便改.deps.json
+E:\c#\隨便改\隨便改\bin\Debug\net6.0\隨便改.runtimeconfig.json
+E:\c#\隨便改\隨便改\bin\Debug\net6.0\隨便改.dll
+E:\c#\隨便改\隨便改\bin\Debug\net6.0\隨便改.pdb
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.AssemblyInfoInputs.cache
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.AssemblyInfo.cs
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.csproj.CoreCompileInputs.cache
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.dll
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\refint\隨便改.dll
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.pdb
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\隨便改.genruntimeconfig.cache
+E:\c#\隨便改\隨便改\obj\Debug\net6.0\ref\隨便改.dll

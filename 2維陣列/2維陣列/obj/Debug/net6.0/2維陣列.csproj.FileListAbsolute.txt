@@ -1,0 +1,14 @@
+E:\c#\2維陣列\2維陣列\bin\Debug\net6.0\2維陣列.exe
+E:\c#\2維陣列\2維陣列\bin\Debug\net6.0\2維陣列.deps.json
+E:\c#\2維陣列\2維陣列\bin\Debug\net6.0\2維陣列.runtimeconfig.json
+E:\c#\2維陣列\2維陣列\bin\Debug\net6.0\2維陣列.dll
+E:\c#\2維陣列\2維陣列\bin\Debug\net6.0\2維陣列.pdb
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.AssemblyInfoInputs.cache
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.AssemblyInfo.cs
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.csproj.CoreCompileInputs.cache
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.dll
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\refint\2維陣列.dll
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.pdb
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\2維陣列.genruntimeconfig.cache
+E:\c#\2維陣列\2維陣列\obj\Debug\net6.0\ref\2維陣列.dll

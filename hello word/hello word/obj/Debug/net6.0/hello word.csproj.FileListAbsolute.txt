@@ -1,0 +1,37 @@
+E:\c#\hello word\hello word\bin\Debug\net6.0\hello word.exe
+E:\c#\hello word\hello word\bin\Debug\net6.0\hello word.deps.json
+E:\c#\hello word\hello word\bin\Debug\net6.0\hello word.runtimeconfig.json
+E:\c#\hello word\hello word\bin\Debug\net6.0\hello word.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\hello word.pdb
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.AssemblyInfoInputs.cache
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.AssemblyInfo.cs
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.csproj.CoreCompileInputs.cache
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.dll
+E:\c#\hello word\hello word\obj\Debug\net6.0\refint\hello word.dll
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.pdb
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.genruntimeconfig.cache
+E:\c#\hello word\hello word\obj\Debug\net6.0\ref\hello word.dll
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.csproj.AssemblyReference.cache
+E:\c#\hello word\hello word\bin\Debug\net6.0\Baseline.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\CommonServiceLocator.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\DryIoc.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\LamarCodeGeneration.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\LanguageExt.Core.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Collections.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Compatibility.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Disposables.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Equality.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Logging.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Logging.Singleton.dll
+E:\c#\hello word\hello word\bin\Debug\net6.0\Uno.Core.Extensions.Threading.dll
+E:\c#\hello word\hello word\obj\Debug\net6.0\hello word.csproj.CopyComplete

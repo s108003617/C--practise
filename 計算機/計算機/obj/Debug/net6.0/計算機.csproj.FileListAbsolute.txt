@@ -1,0 +1,14 @@
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.AssemblyInfoInputs.cache
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.AssemblyInfo.cs
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.csproj.CoreCompileInputs.cache
+E:\c#\計算機\計算機\bin\Debug\net6.0\計算機.exe
+E:\c#\計算機\計算機\bin\Debug\net6.0\計算機.deps.json
+E:\c#\計算機\計算機\bin\Debug\net6.0\計算機.runtimeconfig.json
+E:\c#\計算機\計算機\bin\Debug\net6.0\計算機.dll
+E:\c#\計算機\計算機\bin\Debug\net6.0\計算機.pdb
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.dll
+E:\c#\計算機\計算機\obj\Debug\net6.0\refint\計算機.dll
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.pdb
+E:\c#\計算機\計算機\obj\Debug\net6.0\計算機.genruntimeconfig.cache
+E:\c#\計算機\計算機\obj\Debug\net6.0\ref\計算機.dll

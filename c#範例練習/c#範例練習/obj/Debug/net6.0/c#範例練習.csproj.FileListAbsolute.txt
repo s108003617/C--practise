@@ -1,0 +1,14 @@
+E:\c#\c#範例練習\c#範例練習\bin\Debug\net6.0\c#範例練習.exe
+E:\c#\c#範例練習\c#範例練習\bin\Debug\net6.0\c#範例練習.deps.json
+E:\c#\c#範例練習\c#範例練習\bin\Debug\net6.0\c#範例練習.runtimeconfig.json
+E:\c#\c#範例練習\c#範例練習\bin\Debug\net6.0\c#範例練習.dll
+E:\c#\c#範例練習\c#範例練習\bin\Debug\net6.0\c#範例練習.pdb
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.AssemblyInfoInputs.cache
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.AssemblyInfo.cs
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.csproj.CoreCompileInputs.cache
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.dll
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\refint\c#範例練習.dll
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.pdb
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\c#範例練習.genruntimeconfig.cache
+E:\c#\c#範例練習\c#範例練習\obj\Debug\net6.0\ref\c#範例練習.dll

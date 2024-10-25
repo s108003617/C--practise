@@ -1,0 +1,16 @@
+E:\c#\mouseclick\mouseclick\bin\Debug\net6.0-windows\mouseclick.exe
+E:\c#\mouseclick\mouseclick\bin\Debug\net6.0-windows\mouseclick.deps.json
+E:\c#\mouseclick\mouseclick\bin\Debug\net6.0-windows\mouseclick.runtimeconfig.json
+E:\c#\mouseclick\mouseclick\bin\Debug\net6.0-windows\mouseclick.dll
+E:\c#\mouseclick\mouseclick\bin\Debug\net6.0-windows\mouseclick.pdb
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.Form1.resources
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.csproj.GenerateResource.cache
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.AssemblyInfoInputs.cache
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.AssemblyInfo.cs
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.csproj.CoreCompileInputs.cache
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.dll
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\refint\mouseclick.dll
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.pdb
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\mouseclick.genruntimeconfig.cache
+E:\c#\mouseclick\mouseclick\obj\Debug\net6.0-windows\ref\mouseclick.dll
